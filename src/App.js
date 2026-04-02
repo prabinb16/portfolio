@@ -127,8 +127,7 @@ export default function Portfolio() {
             background: PURPLE.mid, color: PURPLE.bg,
             borderRadius: 8, padding: "9px 22px", fontSize: 13, textDecoration: "none"
           }}>Email me</a>
-          <a href="https://www.linkedin.com/in/prabin-bhurtel-a1672a293/" target="_blank" style={{
-            background: "transparent", border: `0.5px solid ${PURPLE.mid}`, color: PURPLE.mid,
+          <a href="https://www.linkedin.com/in/prabin-bhurtel-a1672a293/" target="_blank" rel="noreferrer" style={{            background: "transparent", border: `0.5px solid ${PURPLE.mid}`, color: PURPLE.mid,
             borderRadius: 8, padding: "9px 22px", fontSize: 13, textDecoration: "none"
           }}>LinkedIn ↗</a>
         </div>
